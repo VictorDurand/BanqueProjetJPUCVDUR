@@ -1,0 +1,3 @@
+Site du zéro, utilisation des bases de données, architecture exemple : 
+
+http://openclassrooms.com/courses/creez-des-applications-pour-android/les-bases-de-donnees-5
