@@ -1,3 +1,14 @@
 Site du zéro, utilisation des bases de données, architecture exemple : 
 
 http://openclassrooms.com/courses/creez-des-applications-pour-android/les-bases-de-donnees-5
+
+/*******************************************************************************************/
+
+Développez.net, développement de web service SOAP pour Android :
+
+http://dsilvera.developpez.com/tutoriels/android/utilisation-web-service-soap-sous-android/
+
+Idem, site perso d'un type : 
+
+http://www.obellianne.fr/alexandre/tutorials/Android/tuto_android_soap.php
+
